@@ -3,4 +3,6 @@
     <string name="app_name">Mohammadhassan\'s Android lab</string>
     <string name="hello_message">سلام دنیا</string>
     <string name="button_message">من یک دکمه هستم</string>
+    <string name="edit_message">من یک دکمه تغییر هستم</string>
+    <string name="hint_text">یک چیزی اینجا بنویس</string>
 </resources>
